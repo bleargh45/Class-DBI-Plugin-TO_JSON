@@ -8,3 +8,4 @@ README
 lib/Class/DBI/Plugin/TO_JSON.pm
 t/pod.t
 t/pod-coverage.t
+t/to_json.t

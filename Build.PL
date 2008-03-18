@@ -12,5 +12,7 @@ Module::Build->new(
         },
     'build_requires'    => {
         'Test::More'        => 0,
+        'DBD::SQLite'       => 0,
+        'JSON::XS'          => 2.0,
         },
     )->create_build_script();

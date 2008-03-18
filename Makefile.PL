@@ -9,6 +9,8 @@ WriteMakefile
           'VERSION_FROM' => 'lib/Class/DBI/Plugin/TO_JSON.pm',
           'PREREQ_PM' => {
                            'Test::More' => 0,
+                           'DBD::SQLite' => 0,
+                           'JSON::XS' => '2',
                            'Class::DBI' => 0
                          }
         )
