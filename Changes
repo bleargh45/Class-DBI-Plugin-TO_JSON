@@ -1,6 +1,6 @@
 Revision history for Perl extension Class::DBI::Plugin::TO_JSON:
 
-0.02    Fri Apr 23 16:49 PDT 2010
+0.03    Fri Apr 23 16:49 PDT 2010
     - Switch to Git
 
 0.02    Mon Mar 17 22:02 PDT 2008
