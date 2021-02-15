@@ -18,9 +18,10 @@ plain/raw HASHREF with no inflated values.
 
 # METHODS
 
-- **TO\_JSON()**
+- TO\_JSON()
 
-    Turns the CDBI data record into a HASHREF suitable for use with `JSON::XS`
+    Turns the `Class::DBI` data record into a HASHREF suitable for use with
+    `JSON::XS`
 
 # AUTHOR
 
