@@ -64,7 +64,7 @@ plain/raw HASHREF with no inflated values.
 
 =over
 
-=item B<TO_JSON()>
+=item TO_JSON()
 
 Turns the CDBI data record into a HASHREF suitable for use with C<JSON::XS>
 
